@@ -12,6 +12,10 @@ SOAPBOX ON
  The macro solution has many applications.
 SOAPBOX OFF
 
+github
+https://tinyurl.com/3t2hrkrt
+https://github.com/rogerjdeangelis/utl-using-sas-macro-dosubl-inside-a-macro-critical-location-of-the-semicolon
+
 CONTENTS
     1 this fails
     2 this works

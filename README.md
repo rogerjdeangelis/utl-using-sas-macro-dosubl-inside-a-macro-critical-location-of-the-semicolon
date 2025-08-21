@@ -18,6 +18,9 @@ Using sas macro dosubl inside a macro critical location of the semicolon
         1 this fails
         2 this works
         3 macro on end
+    github
+    https://tinyurl.com/3t2hrkrt
+    https://github.com/rogerjdeangelis/utl-using-sas-macro-dosubl-inside-a-macro-critical-location-of-the-semicolon
 
     PROBLEM
 
